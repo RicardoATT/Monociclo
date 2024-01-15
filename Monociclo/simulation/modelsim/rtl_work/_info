@@ -1,0 +1,336 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo/simulation/modelsim
+vALU
+Z1 !s110 1684177662
+!i10b 1
+!s100 ;Y?FWAOW<g35z:Ba6PE]>3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ine4b2MY9IY;NZVUnZP9LP1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1683848596
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU/ALU.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU/ALU.v
+!i122 7
+L0 1 172
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1684177662.000000
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU/ALU.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/ALU}
+Z7 tCvgOpt 0
+n@a@l@u
+vBJcontrol
+R1
+!i10b 1
+!s100 o12BWk=>f3CN_4bgiL3912
+R2
+IfCA45BGBYV;C<YTHKbzgT3
+R3
+R0
+w1683848772
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol/BJcontrol.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol/BJcontrol.v
+!i122 1
+L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol/BJcontrol.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol/BJcontrol.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/BJcontrol}
+R7
+n@b@jcontrol
+vDecode
+R1
+!i10b 1
+!s100 Qd@2hA8L@9Sc97lZnid9J3
+R2
+I;IVa<E4Lg[lSMzB_:7AhP0
+R3
+R0
+w1683649096
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode/Decode.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode/Decode.v
+!i122 8
+L0 1 100
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode/Decode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode/Decode.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Decode}
+R7
+n@decode
+vDecodeALU
+R1
+!i10b 1
+!s100 _B4[3f;PaGf]Y]C1;5gHI2
+R2
+I[zC_JDK0VX3F>P_FHh9ZT1
+R3
+R0
+w1683848782
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU/DecodeALU.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU/DecodeALU.v
+!i122 2
+L0 1 93
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU/DecodeALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU/DecodeALU.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/DecodeALU}
+R7
+n@decode@a@l@u
+vFullAdder
+R1
+!i10b 1
+!s100 091[4BmJgB@z=oPWWne;h3
+R2
+IHGI9<0l@8Y4D4EUE;UPEz2
+R3
+R0
+w1683039354
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder/FullAdder.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder/FullAdder.v
+!i122 4
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder/FullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder/FullAdder.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdder}
+R7
+n@full@adder
+vFullAdderN
+R1
+!i10b 1
+!s100 h37md9;8_bE0f:X:gi=SW0
+R2
+IDQ4]gKNDD]?Bl:1b;N3IO1
+R3
+R0
+w1683655440
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN/FullAdderN.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN/FullAdderN.v
+!i122 3
+L0 1 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN/FullAdderN.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN/FullAdderN.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/FullAdderN}
+R7
+n@full@adder@n
+vIMemory
+R1
+!i10b 1
+!s100 RQGf<@>ICAY2LConjN^1V3
+R2
+I5;[Xk?mg7TzXXOob7hWjP2
+R3
+R0
+w1683848784
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory/IMemory.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory/IMemory.v
+!i122 10
+L0 1 23
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory/IMemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory/IMemory.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/IMemory}
+R7
+n@i@memory
+vMemory
+R1
+!i10b 1
+!s100 Jm<94UaeT`HaQaEB00FiE1
+R2
+I:KEmZ]WJ9;NTgP5C[`P^81
+R3
+R0
+w1683827568
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory/Memory.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory/Memory.v
+!i122 11
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory/Memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory/Memory.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Memory}
+R7
+n@memory
+vMonociclo
+R1
+!i10b 1
+!s100 Rd97VzVET6C=`4ClYWL=91
+R2
+I0GV^_VWzU_N9meDLac_D<0
+R3
+R0
+Z8 w1683848800
+Z9 8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo/Monociclo.v
+Z10 FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo/Monociclo.v
+!i122 9
+L0 11 182
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo/Monociclo.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo/Monociclo.v|
+!i113 1
+R6
+Z13 !s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/Monociclo}
+R7
+n@monociclo
+vMonociclo_vlg_tst
+R1
+!i10b 1
+!s100 JKA^YB=clUF^V8PE>e=_V2
+R2
+I]m9i@@=P@_KKk23;5ia1`1
+R3
+R0
+R8
+R9
+R10
+!i122 9
+L0 196 23
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R13
+R7
+n@monociclo_vlg_tst
+vRegisterFile
+R1
+!i10b 1
+!s100 oYk3j>MX;bUE4YRn3k=4m1
+R2
+I0;nR7IMo2ZDZf0Ol:bQGQ3
+R3
+R0
+w1683839416
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile/RegisterFile.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile/RegisterFile.v
+!i122 6
+L0 1 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile/RegisterFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile/RegisterFile.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/RegisterFile}
+R7
+n@register@file
+vSignExtend
+R1
+!i10b 1
+!s100 YnANg^@:VE_:PghEfH2OF0
+R2
+ILQ8c2R:4CNT=MHL3cnj^G3
+R3
+R0
+w1683061920
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend/SignExtend.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend/SignExtend.v
+!i122 5
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend/SignExtend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend/SignExtend.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtend}
+R7
+n@sign@extend
+vSignExtendPC
+R1
+!i10b 1
+!s100 cD_kO^LeEIjolBligWO`b2
+R2
+I<bgYmN05IRfRA[UQMD>S:0
+R3
+R0
+w1683652466
+8C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC/SignExtendPC.v
+FC:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC/SignExtendPC.v
+!i122 0
+L0 1 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC/SignExtendPC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC|C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC/SignExtendPC.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Ricardo Aldair TT/Desktop/Examen_Monociclo_vfinal/SignExtendPC}
+R7
+n@sign@extend@p@c

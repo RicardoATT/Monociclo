@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ALU.v(17): always construct contains both blocking and non-blocking assignments File: /home/ricardo/Escritorio/RicardoAldairTT/MCIC/A23/Examen_Monociclo_vfinal/Examen_Monociclo_vfinal/ALU/ALU.v Line: 17
