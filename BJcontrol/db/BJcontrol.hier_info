@@ -1,0 +1,8 @@
+|BJcontrol
+branch_i => and_w.IN1
+jump_i => pc_control_o.IN1
+b_flag1_i => or_w.IN0
+b_flag2_i => or_w.IN1
+pc_control_o <= pc_control_o.DB_MAX_OUTPUT_PORT_TYPE
+
+
