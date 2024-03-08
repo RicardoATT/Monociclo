@@ -31,7 +31,7 @@ Before installing the software necessary to implement the project, you need to i
 5. Now, you need download [rars tool](https://github.com/TheThirdOne/rars/releases/tag/v1.6).
 
 <p align="center">
-  <img src="/assets/images/rarsInstallation1.png" alt="rars installation - step 1" title="rars installation - step 1">
+  <img src="/assets/images/rarsInstallation2.png" alt="rars installation - step 1" title="rars installation - step 1">
 </p>
 
 6. Run the *.jar* file.
