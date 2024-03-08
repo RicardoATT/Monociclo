@@ -13,19 +13,19 @@ Before installing the software necessary to implement the project, you need to i
 2. Run the *.exe* file as admin.
 
 <p align="center">
-  <img src="/assets/images/javaInstallation1.png" alt="Java installation - step 2" title="Java installation - step 2">
+  <img src="/assets/images/javaInstallation2.png" alt="Java installation - step 2" title="Java installation - step 2">
 </p>
 
 3. Click the *Install* button and wait until the installation is finished.
 
 <p align="center">
-  <img src="/assets/images/javaInstallation1.png" alt="Java installation - step 3" title="Java installation - step 3">
+  <img src="/assets/images/javaInstallation3.png" alt="Java installation - step 3" title="Java installation - step 3">
 </p>
 
 4. Click the *Close* button.
 
 <p align="center">
-  <img src="/assets/images/javaInstallation1.png" alt="Java installation - step 4" title="Java installation - step 4">
+  <img src="/assets/images/javaInstallation4.png" alt="Java installation - step 4" title="Java installation - step 4">
 </p>
 
 5. Now, you need download [rars tool](https://github.com/TheThirdOne/rars/releases/tag/v1.6).
