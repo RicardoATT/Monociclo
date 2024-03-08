@@ -1,5 +1,7 @@
 # Software installation
 
+The installation of the softwa
+
 ## Prerequisites
 
 Before installing the software necessary to implement the project, you need to install [Java 8](https://www.java.com/es/download/ie_manual.jsp) to use the [rars tool](https://github.com/TheThirdOne/rars) (A RISC-V Assembler and Runtime Simulator).
@@ -51,4 +53,16 @@ Before installing the software necessary to implement the project, you need to i
 >The rars tool runs only using Java 8 version
 
 ## Quartus
+Quartus es un entorno de desarrollo integrado (IDE) que proporciona herramientas y recursos para diseñar, simular, implementar y desarrollar dispositivos lógicos programables. Los lenguajes de programación que admite son orientados a hardware como VHDL, Verilog y SystemVerilog. El software también integra a la herramienta de ModelSim que es un simulador de hardware utilizado en el diseño y verificación de circuitos digitales. Este proyecto fue desarrollado en Quartus utilizando Verilog como lenguaje.
 
+>[!NOTE]
+>
+>The project runs only using Quartus 20.1.1 or higher.
+
+1. [Download Quartus 20.1.1](https://www.intel.com/content/www/us/en/software-kit/660907/intel-quartus-prime-lite-edition-design-software-version-20-1-1-for-windows.html).
+
+2. Extract the *.zip* file into a temporary directory.
+
+3. Run *setup.bat*
+
+4. 
