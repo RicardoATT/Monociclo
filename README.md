@@ -1,4 +1,4 @@
-# The unicycle processor
+# The single-cycle processor
 
 ![RTL View](assets/images/unicycleRTL.PNG)
 ![WaveForm Vier](assets/images/unicycleWave.PNG)
