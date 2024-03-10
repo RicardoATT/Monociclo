@@ -16,7 +16,7 @@ In a single-cycle processor, each instruction is executed in a single clock cycl
 
 ## Features
 ### What does the project contain?
-- **ALU:** It is the Arithmetic Logic Unit, which is responsible for carrying out all the logical and mathematical operations of the processor.
+- **ALU:** It is the Arithmetic Logic Unit, which is responsible for performing all the logical and mathematical operations of the processor.
 - **BJControl:**
 - **Decode:**
 - **DecodeALU:**
