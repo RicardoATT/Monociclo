@@ -16,18 +16,18 @@ In a single-cycle processor, each instruction is executed in a single clock cycl
 
 ## Features
 ### What does the project contain?
-- ALU: It is the Arithmetic Logic Unit, which is responsible for carrying out all the logical and mathematical operations of the processor.
-- BJControl: 
-- Decode: 
-- DecodeALU: 
-- FullAdder: 
-- FullAdderN:
-- IMemory:
-- Memory:
-- Monociclo:
-- RegisterFile:
-- SignExtend:
-- SignExtendPC:
+- **ALU:** It is the Arithmetic Logic Unit, which is responsible for carrying out all the logical and mathematical operations of the processor.
+- **BJControl:**
+- **Decode:**
+- **DecodeALU:**
+- **FullAdder:**
+- **FullAdderN:**
+- **IMemory:**
+- **Memory:**
+- **Monociclo:**
+- **RegisterFile:**
+- **SignExtend:**
+- **SignExtendPC:**
 
 ### How to install the tools?
 See the [software installation](docs/softwareInstallation.md)
