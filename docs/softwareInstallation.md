@@ -1,6 +1,6 @@
 # Software installation
 
-This section shows the installation of the necessary tools to run and simulate the project.
+This section shows the installation of the necessary tools to run and simulate the project. The tools installation was done on Windows 10, however, the software is compatible with Windows 11 and Debian-based systems.
 
 ## Quartus
 Quartus is an Integrated Development Environment (IDE) that provides tools and resources to design, simulate, implement, and develop programmable logic devices. The programming languages it supports are hardware-oriented such as VHDL, Verilog and SystemVerilog. The software also integrates the ModelSim tool, which is a hardware simulator used in the design and verification of digital circuits. This project was developed in Quartus using the Verilog language.
