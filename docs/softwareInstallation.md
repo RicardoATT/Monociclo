@@ -61,8 +61,62 @@ Quartus es un entorno de desarrollo integrado (IDE) que proporciona herramientas
 
 1. [Download Quartus 20.1.1](https://www.intel.com/content/www/us/en/software-kit/660907/intel-quartus-prime-lite-edition-design-software-version-20-1-1-for-windows.html).
 
+<p align="center">
+  <img src="/assets/images/quartusInstallation1.png" alt="Quartus installation - step 1" title="Quartus installation - step 1">
+</p>
+
 2. Extract the *.zip* file into a temporary directory.
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation2.png" alt="Quartus installation - step 2" title="Quartus installation - step 2">
+</p>
 
 3. Run *setup.bat*
 
+<p align="center">
+  <img src="/assets/images/quartusInstallation3.png" alt="Quartus installation - step 3" title="Quartus installation - step 3">
+</p>
+
 4. 
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation4.png" alt="Quartus installation - step 4" title="Quartus installation - step 4">
+</p>
+
+5.
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation5.png" alt="Quartus installation - step 5" title="Quartus installation - step 5">
+</p>
+
+6.
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation6.png" alt="Quartus installation - step 6" title="Quartus installation - step 6">
+</p>
+
+7.
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation7.png" alt="Quartus installation - step 7" title="Quartus installation - step 7">
+</p>
+
+8.
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation8.png" alt="Quartus installation - step 8" title="Quartus installation - step 8">
+</p>
+
+9. 
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation9.png" alt="Quartus installation - step 9" title="Quartus installation - step 9">
+</p>
+
+10. 
+
+<p align="center">
+  <img src="/assets/images/quartusInstallation10.png" alt="Quartus installation - step 10" title="Quartus installation - step 10">
+</p>
+
+## ModelSim
