@@ -1,5 +1,5 @@
 Analysis & Synthesis report for Monociclo
-Fri Mar 08 02:55:57 2024
+Sun Mar 10 13:44:36 2024
 Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 
 
@@ -61,7 +61,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                     ;
 +------------------------------------+---------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Fri Mar 08 02:55:57 2024       ;
+; Analysis & Synthesis Status        ; Successful - Sun Mar 10 13:44:36 2024       ;
 ; Quartus Prime Version              ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
 ; Revision Name                      ; Monociclo                                   ;
 ; Top-level Entity Name              ; Monociclo                                   ;
@@ -187,26 +187,26 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------+-------------+
 
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                                                                                                               ;
-+------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+-------------------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path                                                         ; Used in Netlist ; File Type                                   ; File Name with Absolute Path                                                                    ; Library ;
-+------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+-------------------------------------------------------------------------------------------------+---------+
-; ../IMemory/IMemory.v                                                                     ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v           ;         ;
-; ../SignExtendPC/SignExtendPC.v                                                           ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC/SignExtendPC.v ;         ;
-; ../BJcontrol/BJcontrol.v                                                                 ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol/BJcontrol.v       ;         ;
-; ../DecodeALU/DecodeALU.v                                                                 ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU/DecodeALU.v       ;         ;
-; ../Memory/Memory.v                                                                       ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v             ;         ;
-; ../FullAdderN/FullAdderN.v                                                               ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN/FullAdderN.v     ;         ;
-; ../FullAdder/FullAdder.v                                                                 ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder/FullAdder.v       ;         ;
-; ../SignExtend/SignExtend.v                                                               ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend/SignExtend.v     ;         ;
-; ../RegisterFile/RegisterFile.v                                                           ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile/RegisterFile.v ;         ;
-; ../ALU/ALU.v                                                                             ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU/ALU.v                   ;         ;
-; ../Decode/Decode.v                                                                       ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode/Decode.v             ;         ;
-; Monociclo.v                                                                              ; yes             ; User Verilog HDL File                       ; C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v       ;         ;
-; /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/memory/data_mem.hex    ; yes             ; Auto-Found Hexadecimal (Intel-Format) File  ; /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/memory/data_mem.hex           ;         ;
-; /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/imemory/instr_memo.hex ; yes             ; Auto-Found Hexadecimal (Intel-Format) File  ; /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/imemory/instr_memo.hex        ;         ;
-+------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+-------------------------------------------------------------------------------------------------+---------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                                                                                                 ;
++-------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+--------------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path                                                          ; Used in Netlist ; File Type                                   ; File Name with Absolute Path                                                                     ; Library ;
++-------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+--------------------------------------------------------------------------------------------------+---------+
+; ../IMemory/IMemory.v                                                                      ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v           ;         ;
+; ../SignExtendPC/SignExtendPC.v                                                            ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC/SignExtendPC.v ;         ;
+; ../BJcontrol/BJcontrol.v                                                                  ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol/BJcontrol.v       ;         ;
+; ../DecodeALU/DecodeALU.v                                                                  ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU/DecodeALU.v       ;         ;
+; ../Memory/Memory.v                                                                        ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v             ;         ;
+; ../FullAdderN/FullAdderN.v                                                                ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN/FullAdderN.v     ;         ;
+; ../FullAdder/FullAdder.v                                                                  ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdder/FullAdder.v       ;         ;
+; ../SignExtend/SignExtend.v                                                                ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtend/SignExtend.v     ;         ;
+; ../RegisterFile/RegisterFile.v                                                            ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile/RegisterFile.v ;         ;
+; ../ALU/ALU.v                                                                              ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU/ALU.v                   ;         ;
+; ../Decode/Decode.v                                                                        ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Decode/Decode.v             ;         ;
+; Monociclo.v                                                                               ; yes             ; User Verilog HDL File                       ; C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v       ;         ;
+; /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/memory/data_mem.hex    ; yes             ; Auto-Found Hexadecimal (Intel-Format) File  ; /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/memory/data_mem.hex           ;         ;
+; /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/imemory/instr_memo.hex ; yes             ; Auto-Found Hexadecimal (Intel-Format) File  ; /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/imemory/instr_memo.hex        ;         ;
++-------------------------------------------------------------------------------------------+-----------------+---------------------------------------------+--------------------------------------------------------------------------------------------------+---------+
 
 
 +-----------------------------------------------------------+
@@ -2666,7 +2666,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:20     ;
+; Top            ; 00:00:18     ;
 +----------------+--------------+
 
 
@@ -2676,61 +2676,61 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
-    Info: Processing started: Fri Mar 08 02:55:30 2024
+    Info: Processing started: Sun Mar 10 13:44:12 2024
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Monociclo -c Monociclo
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 16 of the 16 processors detected
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/imemory/imemory.v
-    Info (12023): Found entity 1: IMemory File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/signextendpc/signextendpc.v
-    Info (12023): Found entity 1: SignExtendPC File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC/SignExtendPC.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/bjcontrol/bjcontrol.v
-    Info (12023): Found entity 1: BJcontrol File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol/BJcontrol.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/decodealu/decodealu.v
-    Info (12023): Found entity 1: DecodeALU File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU/DecodeALU.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/memory/memory.v
-    Info (12023): Found entity 1: Memory File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/fulladdern/fulladdern.v
-    Info (12023): Found entity 1: FullAdderN File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN/FullAdderN.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/fulladder/fulladder.v
-    Info (12023): Found entity 1: FullAdder File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder/FullAdder.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/signextend/signextend.v
-    Info (12023): Found entity 1: SignExtend File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend/SignExtend.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/registerfile/registerfile.v
-    Info (12023): Found entity 1: RegisterFile File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile/RegisterFile.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/alu/alu.v
-    Info (12023): Found entity 1: ALU File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU/ALU.v Line: 1
-Info (12021): Found 1 design units, including 1 entities, in source file /users/usuario/documents/proyectos_ratt/microprocesador_monociclo/decode/decode.v
-    Info (12023): Found entity 1: Decode File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode/Decode.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/imemory/imemory.v
+    Info (12023): Found entity 1: IMemory File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/signextendpc/signextendpc.v
+    Info (12023): Found entity 1: SignExtendPC File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC/SignExtendPC.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/bjcontrol/bjcontrol.v
+    Info (12023): Found entity 1: BJcontrol File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol/BJcontrol.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/decodealu/decodealu.v
+    Info (12023): Found entity 1: DecodeALU File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU/DecodeALU.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/memory/memory.v
+    Info (12023): Found entity 1: Memory File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/fulladdern/fulladdern.v
+    Info (12023): Found entity 1: FullAdderN File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN/FullAdderN.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/fulladder/fulladder.v
+    Info (12023): Found entity 1: FullAdder File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdder/FullAdder.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/signextend/signextend.v
+    Info (12023): Found entity 1: SignExtend File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtend/SignExtend.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/registerfile/registerfile.v
+    Info (12023): Found entity 1: RegisterFile File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile/RegisterFile.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/alu/alu.v
+    Info (12023): Found entity 1: ALU File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU/ALU.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file /users/ricardo aldair tt/documents/ratt_repos/procesador_monociclo/decode/decode.v
+    Info (12023): Found entity 1: Decode File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Decode/Decode.v Line: 1
 Info (12021): Found 2 design units, including 2 entities, in source file monociclo.v
-    Info (12023): Found entity 1: Monociclo File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 11
-    Info (12023): Found entity 2: Monociclo_vlg_tst File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 196
+    Info (12023): Found entity 1: Monociclo File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 11
+    Info (12023): Found entity 2: Monociclo_vlg_tst File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 196
 Info (12127): Elaborating entity "Monociclo" for the top level hierarchy
-Info (12128): Elaborating entity "FullAdderN" for hierarchy "FullAdderN:Add4" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 85
-Info (12128): Elaborating entity "FullAdder" for hierarchy "FullAdderN:Add4|FullAdder:genfor[0].Adder" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN/FullAdderN.v Line: 19
-Info (12128): Elaborating entity "IMemory" for hierarchy "IMemory:Instr_Mem" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 93
-Warning (10850): Verilog HDL warning at IMemory.v(16): number of words (19) in memory file does not match the number of elements in the address range [0:31] File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v Line: 16
-Warning (10030): Net "mem.data_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v Line: 12
-Warning (10030): Net "mem.waddr_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v Line: 12
-Warning (10030): Net "mem.we_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v Line: 12
-Info (12128): Elaborating entity "Decode" for hierarchy "Decode:Deco" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 107
-Info (12128): Elaborating entity "DecodeALU" for hierarchy "DecodeALU:DecoALU" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 113
-Info (12128): Elaborating entity "SignExtendPC" for hierarchy "SignExtendPC:SignExtPC" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 120
-Info (12128): Elaborating entity "RegisterFile" for hierarchy "RegisterFile:RegFile" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 136
-Info (12128): Elaborating entity "SignExtend" for hierarchy "SignExtend:SignExt" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 143
-Info (12128): Elaborating entity "ALU" for hierarchy "ALU:Exe" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 155
-Info (12128): Elaborating entity "FullAdderN" for hierarchy "ALU:Exe|FullAdderN:sumres" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU/ALU.v Line: 170
-Info (12128): Elaborating entity "BJcontrol" for hierarchy "BJcontrol:BJctrl" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 162
-Info (12128): Elaborating entity "Memory" for hierarchy "Memory:DataMem" File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 186
-Warning (10850): Verilog HDL warning at Memory.v(19): number of words (1018) in memory file does not match the number of elements in the address range [0:31] File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v Line: 19
+Info (12128): Elaborating entity "FullAdderN" for hierarchy "FullAdderN:Add4" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 85
+Info (12128): Elaborating entity "FullAdder" for hierarchy "FullAdderN:Add4|FullAdder:genfor[0].Adder" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN/FullAdderN.v Line: 19
+Info (12128): Elaborating entity "IMemory" for hierarchy "IMemory:Instr_Mem" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 93
+Warning (10850): Verilog HDL warning at IMemory.v(16): number of words (19) in memory file does not match the number of elements in the address range [0:31] File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v Line: 16
+Warning (10030): Net "mem.data_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v Line: 12
+Warning (10030): Net "mem.waddr_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v Line: 12
+Warning (10030): Net "mem.we_a" at IMemory.v(12) has no driver or initial value, using a default initial value '0' File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v Line: 12
+Info (12128): Elaborating entity "Decode" for hierarchy "Decode:Deco" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 107
+Info (12128): Elaborating entity "DecodeALU" for hierarchy "DecodeALU:DecoALU" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 113
+Info (12128): Elaborating entity "SignExtendPC" for hierarchy "SignExtendPC:SignExtPC" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 120
+Info (12128): Elaborating entity "RegisterFile" for hierarchy "RegisterFile:RegFile" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 136
+Info (12128): Elaborating entity "SignExtend" for hierarchy "SignExtend:SignExt" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 143
+Info (12128): Elaborating entity "ALU" for hierarchy "ALU:Exe" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 155
+Info (12128): Elaborating entity "FullAdderN" for hierarchy "ALU:Exe|FullAdderN:sumres" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU/ALU.v Line: 170
+Info (12128): Elaborating entity "BJcontrol" for hierarchy "BJcontrol:BJctrl" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 162
+Info (12128): Elaborating entity "Memory" for hierarchy "Memory:DataMem" File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 186
+Warning (10850): Verilog HDL warning at Memory.v(19): number of words (1018) in memory file does not match the number of elements in the address range [0:31] File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v Line: 19
 Info (276014): Found 2 instances of uninferred RAM logic
-    Info (276007): RAM logic "RegisterFile:RegFile|mem" is uninferred due to asynchronous read logic File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile/RegisterFile.v Line: 16
-    Info (276007): RAM logic "Memory:DataMem|mem" is uninferred due to asynchronous read logic File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v Line: 15
-Warning (127007): Memory Initialization File or Hexadecimal (Intel-Format) File "C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/db/Monociclo.ram0_IMemory_b32d8800.hdl.mif" contains "don't care" values -- overwriting them with 0s
-Warning (127007): Memory Initialization File or Hexadecimal (Intel-Format) File "C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/db/Monociclo.ram0_RegisterFile_a34c3c8.hdl.mif" contains "don't care" values -- overwriting them with 0s
+    Info (276007): RAM logic "RegisterFile:RegFile|mem" is uninferred due to asynchronous read logic File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile/RegisterFile.v Line: 16
+    Info (276007): RAM logic "Memory:DataMem|mem" is uninferred due to asynchronous read logic File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v Line: 15
+Warning (127007): Memory Initialization File or Hexadecimal (Intel-Format) File "C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/db/Monociclo.ram0_IMemory_b32d8800.hdl.mif" contains "don't care" values -- overwriting them with 0s
+Warning (127007): Memory Initialization File or Hexadecimal (Intel-Format) File "C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/db/Monociclo.ram0_RegisterFile_a34c3c8.hdl.mif" contains "don't care" values -- overwriting them with 0s
 Warning (12241): 1 hierarchies have connectivity warnings - see the Connectivity Checks report folder
 Info (286030): Timing-Driven Synthesis is running
-Info (144001): Generated suppressed messages file C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/output_files/Monociclo.map.smsg
+Info (144001): Generated suppressed messages file C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/output_files/Monociclo.map.smsg
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
 Info (21057): Implemented 6915 device resources after synthesis - the final resource count might be different
@@ -2738,15 +2738,15 @@ Info (21057): Implemented 6915 device resources after synthesis - the final reso
     Info (21059): Implemented 64 output pins
     Info (21061): Implemented 6849 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 9 warnings
-    Info: Peak virtual memory: 4889 megabytes
-    Info: Processing ended: Fri Mar 08 02:55:57 2024
-    Info: Elapsed time: 00:00:27
-    Info: Total CPU time (on all processors): 00:00:27
+    Info: Peak virtual memory: 4883 megabytes
+    Info: Processing ended: Sun Mar 10 13:44:36 2024
+    Info: Elapsed time: 00:00:24
+    Info: Total CPU time (on all processors): 00:00:33
 
 
 +------------------------------------------+
 ; Analysis & Synthesis Suppressed Messages ;
 +------------------------------------------+
-The suppressed messages can be found in C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/output_files/Monociclo.map.smsg.
+The suppressed messages can be found in C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/output_files/Monociclo.map.smsg.
 
 

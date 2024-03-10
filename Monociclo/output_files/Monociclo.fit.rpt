@@ -1,5 +1,5 @@
 Fitter report for Monociclo
-Fri Mar 08 02:56:21 2024
+Sun Mar 10 13:44:57 2024
 Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 
 
@@ -66,7 +66,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Fitter Summary                                                                   ;
 +------------------------------------+---------------------------------------------+
-; Fitter Status                      ; Successful - Fri Mar 08 02:56:21 2024       ;
+; Fitter Status                      ; Successful - Sun Mar 10 13:44:57 2024       ;
 ; Quartus Prime Version              ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
 ; Revision Name                      ; Monociclo                                   ;
 ; Top-level Entity Name              ; Monociclo                                   ;
@@ -157,11 +157,11 @@ https://fpgasoftware.intel.com/eula.
 ;     Processor 1            ; 100.0%      ;
 ;     Processor 2            ;   2.5%      ;
 ;     Processor 3            ;   2.4%      ;
-;     Processor 4            ;   2.3%      ;
+;     Processor 4            ;   2.4%      ;
 ;     Processor 5            ;   2.3%      ;
-;     Processor 6            ;   2.2%      ;
+;     Processor 6            ;   2.3%      ;
 ;     Processor 7            ;   2.2%      ;
-;     Processor 8            ;   2.1%      ;
+;     Processor 8            ;   2.2%      ;
 ;     Processors 9-16        ;   1.8%      ;
 +----------------------------+-------------+
 
@@ -204,7 +204,7 @@ https://fpgasoftware.intel.com/eula.
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/output_files/Monociclo.pin.
+The pin-out file can be found in C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/output_files/Monociclo.pin.
 
 
 +-----------------------------------------------------------------------+
@@ -1492,9 +1492,9 @@ Info (332144): No user constrained base clocks found in the design
 Info (332143): No user constrained clock uncertainty found in the design. Calling "derive_clock_uncertainty"
 Info (332154): The derive_clock_uncertainty command did not apply clock uncertainty to any clock-to-clock transfers.
 Info (332130): Timing requirements not specified -- quality metrics such as performance may be sacrificed to reduce compilation time.
-Info (176353): Automatically promoted node clk_i~input (placed in PIN E1 (CLK1, DIFFCLK_0n)) File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 12
+Info (176353): Automatically promoted node clk_i~input (placed in PIN E1 (CLK1, DIFFCLK_0n)) File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 12
     Info (176355): Automatically promoted destinations to use location or clock signal Global Clock CLKCTRL_G2
-Info (176353): Automatically promoted node rst_ni~input (placed in PIN M2 (CLK2, DIFFCLK_1p)) File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 13
+Info (176353): Automatically promoted node rst_ni~input (placed in PIN M2 (CLK2, DIFFCLK_1p)) File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 13
     Info (176355): Automatically promoted destinations to use location or clock signal Global Clock CLKCTRL_G4
 Info (176233): Starting register packing
 Info (176235): Finished register packing
@@ -1524,24 +1524,24 @@ Info (170195): Router estimated average interconnect usage is 19% of the availab
     Info (170196): Router estimated peak interconnect usage is 36% of the available device resources in the region that extends from location X11_Y0 to location X22_Y11
 Info (170199): The Fitter performed an Auto Fit compilation.  Optimizations were skipped to reduce compilation time.
     Info (170201): Optimizations that may affect the design's routability were skipped
-Info (170194): Fitter routing operations ending: elapsed time is 00:00:09
-Info (11888): Total time spent on timing analysis during the Fitter is 2.74 seconds.
+Info (170194): Fitter routing operations ending: elapsed time is 00:00:08
+Info (11888): Total time spent on timing analysis during the Fitter is 2.38 seconds.
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
-Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:02
-Info (144001): Generated suppressed messages file C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/output_files/Monociclo.fit.smsg
+Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:01
+Info (144001): Generated suppressed messages file C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/output_files/Monociclo.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 5 warnings
-    Info: Peak virtual memory: 6565 megabytes
-    Info: Processing ended: Fri Mar 08 02:56:22 2024
-    Info: Elapsed time: 00:00:24
-    Info: Total CPU time (on all processors): 00:00:17
+    Info: Peak virtual memory: 6562 megabytes
+    Info: Processing ended: Sun Mar 10 13:44:57 2024
+    Info: Elapsed time: 00:00:20
+    Info: Total CPU time (on all processors): 00:00:43
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/output_files/Monociclo.fit.smsg.
+The suppressed messages can be found in C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/output_files/Monociclo.fit.smsg.
 
 

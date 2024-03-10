@@ -10,142 +10,142 @@
 # Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
 # Modifying modelsim.ini
 # 
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC/SignExtendPC.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC/SignExtendPC.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtendPC/SignExtendPC.v 
+# Start time: 13:45:15 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtendPC/SignExtendPC.v 
 # -- Compiling module SignExtendPC
 # 
 # Top level modules:
 # 	SignExtendPC
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:15 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol/BJcontrol.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol/BJcontrol.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/BJcontrol/BJcontrol.v 
+# Start time: 13:45:15 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/BJcontrol/BJcontrol.v 
 # -- Compiling module BJcontrol
 # 
 # Top level modules:
 # 	BJcontrol
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:15 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU/DecodeALU.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU/DecodeALU.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/DecodeALU/DecodeALU.v 
+# Start time: 13:45:15 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/DecodeALU/DecodeALU.v 
 # -- Compiling module DecodeALU
 # 
 # Top level modules:
 # 	DecodeALU
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:15 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN/FullAdderN.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN/FullAdderN.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdderN/FullAdderN.v 
+# Start time: 13:45:15 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdderN/FullAdderN.v 
 # -- Compiling module FullAdderN
 # 
 # Top level modules:
 # 	FullAdderN
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder/FullAdder.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/FullAdder {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdder/FullAdder.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/FullAdder/FullAdder.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdder" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/FullAdder/FullAdder.v 
 # -- Compiling module FullAdder
 # 
 # Top level modules:
 # 	FullAdder
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend/SignExtend.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/SignExtend {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtend/SignExtend.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/SignExtend/SignExtend.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtend" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/SignExtend/SignExtend.v 
 # -- Compiling module SignExtend
 # 
 # Top level modules:
 # 	SignExtend
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile/RegisterFile.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile/RegisterFile.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/RegisterFile/RegisterFile.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/RegisterFile/RegisterFile.v 
 # -- Compiling module RegisterFile
 # 
 # Top level modules:
 # 	RegisterFile
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU/ALU.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/ALU {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU/ALU.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/ALU/ALU.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/ALU/ALU.v 
 # -- Compiling module ALU
 # 
 # Top level modules:
 # 	ALU
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode/Decode.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/Decode {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Decode/Decode.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Decode/Decode.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Decode" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Decode/Decode.v 
 # -- Compiling module Decode
 # 
 # Top level modules:
 # 	Decode
-# End time: 02:57:16 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/Monociclo {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:16 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v 
 # -- Compiling module Monociclo
 # -- Compiling module Monociclo_vlg_tst
 # 
 # Top level modules:
 # 	Monociclo_vlg_tst
-# End time: 02:57:17 on Mar 08,2024, Elapsed time: 0:00:01
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/IMemory {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:17 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/IMemory/IMemory.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/IMemory/IMemory.v 
 # -- Compiling module IMemory
 # 
 # Top level modules:
 # 	IMemory
-# End time: 02:57:17 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/Memory {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:17 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v 
 # -- Compiling module Memory
 # 
 # Top level modules:
 # 	Memory
-# End time: 02:57:17 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
-# vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/simulation/modelsim {C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt}
+# vlog -vlog01compat -work work +incdir+C:/Users/Ricardo\ Aldair\ TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/simulation/modelsim {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 02:57:17 on Mar 08,2024
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/simulation/modelsim" C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt 
+# Start time: 13:45:16 on Mar 10,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/simulation/modelsim" C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt 
 # -- Compiling module Monociclo_vlg_tst
 # 
 # Top level modules:
 # 	Monociclo_vlg_tst
-# End time: 02:57:17 on Mar 08,2024, Elapsed time: 0:00:00
+# End time: 13:45:16 on Mar 10,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  Monociclo_vlg_tst
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" Monociclo_vlg_tst 
-# Start time: 02:57:17 on Mar 08,2024
+# Start time: 13:45:16 on Mar 10,2024
 # Loading work.Monociclo_vlg_tst
 # Loading work.Monociclo
 # Loading work.FullAdderN
@@ -159,10 +159,10 @@
 # Loading work.BJcontrol
 # Loading work.Memory
 # Loading work.FullAdder
-# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_rd_i'. The port definition is at: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(11).
-#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 178
-# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_wr_i'. The port definition is at: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(8).
-#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 178
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_rd_i'. The port definition is at: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 178
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_wr_i'. The port definition is at: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 178
 # 
 # add wave *
 # view structure
@@ -170,19 +170,19 @@
 # view signals
 # .main_pane.objects.interior.cs.body.tree
 # run 100 ns
-# ** Warning: (vsim-PLI-3407) Too many data words read on line 33 of file "Data_Mem.hex". (Current address [32], address range [0:31])    : C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(19)
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 33 of file "Data_Mem.hex". (Current address [32], address range [0:31])    : C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(19)
 #    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem
 # Running testbench
-do C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/simulation/modelsim/wave.do
+do {C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/simulation/modelsim/wave.do}
 restart
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_rd_i'. The port definition is at: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(11).
-#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 178
-# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_wr_i'. The port definition is at: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(8).
-#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Monociclo/Monociclo.v Line: 178
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_rd_i'. The port definition is at: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 178
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (10) for port 'addr_wr_i'. The port definition is at: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem File: C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Monociclo/Monociclo.v Line: 178
 run -all
-# ** Warning: (vsim-PLI-3407) Too many data words read on line 33 of file "Data_Mem.hex". (Current address [32], address range [0:31])    : C:/Users/Usuario/Documents/Proyectos_RATT/Microprocesador_monociclo/Memory/Memory.v(19)
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 33 of file "Data_Mem.hex". (Current address [32], address range [0:31])    : C:/Users/Ricardo Aldair TT/Documents/RATT_repos/Procesador_monociclo/Memory/Memory.v(19)
 #    Time: 0 ps  Iteration: 0  Instance: /Monociclo_vlg_tst/i1/DataMem
 # Running testbench
-# End time: 02:58:08 on Mar 08,2024, Elapsed time: 0:00:51
+# End time: 13:45:41 on Mar 10,2024, Elapsed time: 0:00:25
 # Errors: 0, Warnings: 3
