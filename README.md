@@ -8,7 +8,7 @@ In a single-cycle processor, each instruction is executed in a single clock cycl
 
 This project is part of the courses offered by the [Largarto Initiative](https://lagarto.ipn.mx/) of the National Polytechnic Institute (IPN).
 
-## Tools used
+## Used tools
 - Quartus 20.1.1.
 - rars 1.6.
 
