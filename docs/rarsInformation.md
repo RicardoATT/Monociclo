@@ -1,1 +1,1 @@
-# Quick guide to creating RISC-V instructions with rars
+# Quick guide to create RISC-V instructions with rars
