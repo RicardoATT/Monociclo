@@ -40,5 +40,5 @@ See the [build information](docs/buildInformation.md)
 ### How to simulate bubble sort in the project?
 See the [example information](docs/exampleInformation.md)
 
-### How to use and develop instructions in rars??
+### How to use and develop instructions in rars?
 See the [rars information](docs/rarsInformation.md)
