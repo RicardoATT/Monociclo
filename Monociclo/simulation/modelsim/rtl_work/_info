@@ -1,0 +1,336 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim
+vALU
+Z1 !s110 1711094665
+!i10b 1
+!s100 ;Y?FWAOW<g35z:Ba6PE]>3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMIbe[>R;M;a7UgJ=Qj4LU2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1683848596
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v
+!i122 7
+L0 1 172
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1711094665.000000
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU
+Z7 tCvgOpt 0
+n@a@l@u
+vBJcontrol
+Z8 !s110 1711094664
+!i10b 1
+!s100 o12BWk=>f3CN_4bgiL3912
+R2
+IkImXf5kDiX61iBR=fAY]_2
+R3
+R0
+w1683848772
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v
+!i122 1
+L0 1 11
+R4
+r1
+!s85 0
+31
+Z9 !s108 1711094664.000000
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol
+R7
+n@b@jcontrol
+vDecode
+R1
+!i10b 1
+!s100 Qd@2hA8L@9Sc97lZnid9J3
+R2
+IVhbCDh^W0FXNbR[Dm>I;Q3
+R3
+R0
+w1683649096
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode/Decode.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode/Decode.v
+!i122 8
+L0 1 100
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode/Decode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode/Decode.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Decode
+R7
+n@decode
+vDecodeALU
+R8
+!i10b 1
+!s100 _B4[3f;PaGf]Y]C1;5gHI2
+R2
+I83B16:;Y;]LgBk@C]VZkC2
+R3
+R0
+w1683848782
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU/DecodeALU.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU/DecodeALU.v
+!i122 2
+L0 1 93
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU/DecodeALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU/DecodeALU.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/DecodeALU
+R7
+n@decode@a@l@u
+vFullAdder
+R1
+!i10b 1
+!s100 091[4BmJgB@z=oPWWne;h3
+R2
+I[SR8h8P[^V1oem^D;;7WO0
+R3
+R0
+w1683039354
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v
+!i122 4
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder
+R7
+n@full@adder
+vFullAdderN
+R8
+!i10b 1
+!s100 h37md9;8_bE0f:X:gi=SW0
+R2
+I_:]?B;@6mmg5_4Cg_Bi5Q0
+R3
+R0
+w1683655440
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN/FullAdderN.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN/FullAdderN.v
+!i122 3
+L0 1 27
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN/FullAdderN.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN/FullAdderN.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdderN
+R7
+n@full@adder@n
+vIMemory
+R1
+!i10b 1
+!s100 RQGf<@>ICAY2LConjN^1V3
+R2
+IDSPGG46XBIl]IP:2IcnaQ2
+R3
+R0
+w1683848784
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory/IMemory.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory/IMemory.v
+!i122 10
+L0 1 23
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory/IMemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory/IMemory.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/IMemory
+R7
+n@i@memory
+vMemory
+R1
+!i10b 1
+!s100 Jm<94UaeT`HaQaEB00FiE1
+R2
+Ib<dec3D1njdDQ]X070R763
+R3
+R0
+w1683827568
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory/Memory.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory/Memory.v
+!i122 11
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory/Memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory/Memory.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Memory
+R7
+n@memory
+vMonociclo
+R1
+!i10b 1
+!s100 Rd97VzVET6C=`4ClYWL=91
+R2
+IeR=<32=B0B>=JfM?LOYQS1
+R3
+R0
+w1683848800
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/Monociclo.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/Monociclo.v
+!i122 9
+L0 11 182
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/Monociclo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/Monociclo.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo
+R7
+n@monociclo
+vMonociclo_vlg_tst
+R1
+!i10b 1
+!s100 ZbSWei]H_CHCOojRf@LQS3
+R2
+IeNLIim<_KH0XnIOEP0n@a0
+R3
+R0
+w1683668416
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt
+!i122 12
+L0 2 23
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim/Monociclo.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim
+R7
+n@monociclo_vlg_tst
+vRegisterFile
+R1
+!i10b 1
+!s100 oYk3j>MX;bUE4YRn3k=4m1
+R2
+IIeSD]5n3;?[aehe3:DGzJ0
+R3
+R0
+w1683839416
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v
+!i122 6
+L0 1 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile
+R7
+n@register@file
+vSignExtend
+R1
+!i10b 1
+!s100 YnANg^@:VE_:PghEfH2OF0
+R2
+IVlSCn@jZJ:Kh]1;lhaTMT0
+R3
+R0
+w1683061920
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v
+!i122 5
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend
+R7
+n@sign@extend
+vSignExtendPC
+R8
+!i10b 1
+!s100 cD_kO^LeEIjolBligWO`b2
+R2
+I>=23eJYBok:KfC1R5B4YM1
+R3
+R0
+w1683652466
+8C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC/SignExtendPC.v
+FC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC/SignExtendPC.v
+!i122 0
+L0 1 9
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC/SignExtendPC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC/SignExtendPC.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtendPC
+R7
+n@sign@extend@p@c

@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pc_control_o",
+					"strict" : false
+				},
+				{
+					"name" : "b_flag1_i",
+					"strict" : false
+				},
+				{
+					"name" : "b_flag2_i",
+					"strict" : false
+				},
+				{
+					"name" : "jump_i",
+					"strict" : false
+				},
+				{
+					"name" : "branch_i",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
