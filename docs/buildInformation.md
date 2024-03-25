@@ -23,7 +23,7 @@ Once the Quartus IDE is installed and the ModelSim simulator is configured, the 
 
 If you want to modify the instruction memory, you have two options:
 
-1. Modify the *Instr_Memo* file in the displayed path.
+1. Modify the *Instr_Memo* file in the path shown.
 
 <p align="center">
   <img src="/assets/images/build3.png" alt="Building project - step 4" title="Building project - step 4">
@@ -37,7 +37,7 @@ If you want to modify the instruction memory, you have two options:
 
 If you want to modify the data memory, you have two options:
 
-1. Modify the *Data_Mem* file in the displayed path.
+1. Modify the *Data_Mem* file in the path shown.
 
 <p align="center">
   <img src="/assets/images/build5.png" alt="Building project - step 6" title="Building project - step 6">
