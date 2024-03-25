@@ -48,4 +48,3 @@ If you want to modify the data memory, you have two options:
 <p align="center">
   <img src="/assets/images/build6.png" alt="Building project - step 7" title="Building project - step 7">
 </p>
-
