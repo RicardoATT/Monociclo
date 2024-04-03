@@ -1,7 +1,7 @@
 # Build information
 Once the Quartus IDE is installed and the ModelSim simulator is configured, the next step is compile the project.
 
-1. Open Quartus and select the *Open Project* option in the *File* tab.
+1. Open Quartus and select *File* -> *Open Project*.
 
 <p align="center">
   <img src="/assets/images/build1.png" alt="Building project - step 1" title="Building project - step 1">
