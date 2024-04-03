@@ -7,7 +7,7 @@ Once the Quartus IDE is installed and the ModelSim simulator is configured, the 
   <img src="/assets/images/build1.png" alt="Building project - step 1" title="Building project - step 1">
 </p>
 
-2. Select the path where the project was saved and choose the directory of the black box. Select the *.qpf* file and open it.
+2. Choose the following path within the project. Select the *.qpf* file and open it.
 
 <p align="center">
   <img src="/assets/images/build2.png" alt="Building project - step 2" title="Building project - step 2">
