@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dC:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim
 vALU
-Z1 !s110 1711094665
+Z1 !s110 1712814451
 !i10b 1
 !s100 ;Y?FWAOW<g35z:Ba6PE]>3
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -26,7 +26,7 @@ Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1711094665.000000
+Z5 !s108 1712814451.000000
 !s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/ALU/ALU.v|
 !i113 1
@@ -35,7 +35,7 @@ Z6 o-vlog01compat -work work
 Z7 tCvgOpt 0
 n@a@l@u
 vBJcontrol
-Z8 !s110 1711094664
+Z8 !s110 1712814450
 !i10b 1
 !s100 o12BWk=>f3CN_4bgiL3912
 R2
@@ -51,7 +51,7 @@ R4
 r1
 !s85 0
 31
-Z9 !s108 1711094664.000000
+Z9 !s108 1712814450.000000
 !s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/BJcontrol/BJcontrol.v|
 !i113 1
@@ -110,7 +110,7 @@ R6
 R7
 n@decode@a@l@u
 vFullAdder
-R1
+R8
 !i10b 1
 !s100 091[4BmJgB@z=oPWWne;h3
 R2
@@ -126,7 +126,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/FullAdder/FullAdder.v|
 !i113 1
@@ -276,7 +276,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/RegisterFile/RegisterFile.v|
 !i113 1
@@ -285,7 +285,7 @@ R6
 R7
 n@register@file
 vSignExtend
-R1
+R8
 !i10b 1
 !s100 YnANg^@:VE_:PghEfH2OF0
 R2
@@ -301,7 +301,7 @@ R4
 r1
 !s85 0
 31
-R5
+R9
 !s107 C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend|C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/SignExtend/SignExtend.v|
 !i113 1

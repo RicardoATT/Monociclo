@@ -22,7 +22,4 @@ vlog -vlog01compat -work work +incdir+C:/Users/Usuario/Documents/RATT_repositori
 
 vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  Monociclo_vlg_tst
 
-add wave *
-view structure
-view signals
-run 100 ns
+do C:/Users/Usuario/Documents/RATT_repositorios/Procesador_monociclo/Monociclo/simulation/modelsim/wave.do
